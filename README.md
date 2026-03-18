@@ -10,6 +10,10 @@ Esse repositório foi desenvolvido como projeto prático, com proposito de exerc
 ## Objetivo
 Explorar o **NotebookLM** e aplicar o conceito de **IA Generativa** para instanciar a visão de um especialista de ``Python`` capaz de transmitir todo seu conhecimento na Linguagem de Programação para um leigo no assunto.
 
+<p align="center">
+    <img src="./outputs_ia/anatomia_da_programacao.png" alt="Infográfico Anatomia da Programação" width="100%">
+</p>
+
 🔗 [Obtenha acesso ao notebook completo aqui](https://notebooklm.google.com/notebook/3348ec7f-ca17-455c-b3fb-7d21ba486eb1)
 
 ## 🗂️ Estrutura do repositório
@@ -18,6 +22,10 @@ Explorar o **NotebookLM** e aplicar o conceito de **IA Generativa** para instanc
 │   ├── 📕 python_avancado.pdf
 │   ├── 📕 python_basico.pdf
 │   └── 📕 python_intermediario.pdf
+├── 📁 outputs_ia
+│   ├── 🖼️ NotebookLM_Mind_Map.png
+│   ├── 📕 Python_Blueprint.pdf
+│   └── 🖼️ anatomia_da_programacao.png
 ├── 📄 LICENSE
 └── 📝 README.md
 ```
@@ -59,6 +67,15 @@ Outro recurso destacado é o repositório no **GitHub** que contém a tradução
 <br><br>
 O objetivo central é capacitar programadores iniciantes e veteranos por meio de instruções práticas e materiais de referência padronizados.
 
+## 📄 Materiais consolidados pela IA
+Além das interações, utilizei o NotebookLM para gerar documentos estruturados que servem como base de consulta rápida:
+
+<!-- * 📅 [**Cronograma de Estudos Progressivo**](./material_gerado/roteiro_de_estudos.pdf): Um plano de 4 semanas baseado nas fontes de Harvard e FATEC. -->
+<!-- * ❓ [**FAQ do Especialista**](./material_gerado/faq_python.md): Lista de dúvidas frequentes para quem está saindo do zero. -->
+* 🤔 [**Pensando em Python - Fundamentos da Programação**](./outputs_ia/Python_Blueprint.pdf): Apresentação de slides com guia visual inspirado no **CS50 da Universidade de Harvard**.
+* 📊 [**Anatomia da Programação**](./outputs_ia/anatomia_da_programacao.png): Infográfico detalhado *(exibido acima)* resumindo pilares como funções, variáveis, listas e exceções.
+* 🗾 [**Estrutura Currícular**](./outputs_ia/NotebookLM_Mind_Map.png): Mapa mental que possibilita a visualização e organização de conceitos da linguagem de programação.
+
 ## 🧠 Engenharia de Prompt e "Cicatrizes"
 Durante a interação com o **NotebookLM**, utilizei as seguintes estratégias:
 
@@ -76,7 +93,7 @@ Durante a interação com o **NotebookLM**, utilizei as seguintes estratégias:
 
 ### 📖 Glossário de conceitos
 
-- **Variáveis e ipagem**: Como o Python lida com dados de forma dinâmica.
+- **Variáveis e Tipagem**: Como o Python lida com dados de forma dinâmica.
 - **Estruturas de Controle**: O uso de ``if``, ``else`` e loops (``for``, ``while``) para ditar o fluxo do programa.
 - **POO (Programação Orientada a Objetos)**: Organização de código através de classes e objetos (essencial para o nível expert).
 
