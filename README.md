@@ -18,6 +18,7 @@ Explorar o **NotebookLM** e aplicar o conceito de **IA Generativa** para instanc
 │   ├── 📕 python_avancado.pdf
 │   ├── 📕 python_basico.pdf
 │   └── 📕 python_intermediario.pdf
+├── 📄 LICENSE
 └── 📝 README.md
 ```
 
@@ -37,10 +38,14 @@ Para obtermos a visão de um especialista através do **NotebookLM**, fornecemos
 - [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://www.youtube.com/watch?v=nLRL_NcnK-4&pp=ygUlbGVhcm4gcHl0aG9uIGZ1bGwgY291cnNlIGZvciBhZHZhbmNlZA%3D%3D);
 
 ### 🌐 Páginas web
-- ;
-- ;
-- ;
-- ;
+- [Python 3.14.3 Documentation](https://docs.python.org/);
+- [Python Documentation - CodeHS](https://codehs.com/editor/documentation/python);
+- [Brazilian Portuguese Translation of the Python Documentation](https://github.com/python/python-docs-pt-br);
+- [Introduction to Python Programming - OpenStax](https://openstax.org/details/books/introduction-python-programming);
+- [Python - Glossary | MDN](https://developer.mozilla.org/en-US/docs/Glossary/Python);
+- [Python Reference](https://www.w3schools.com/python/python_reference.asp);
+- [Textbook: Intro to Python Textbook | CodeHS](https://codehs.com/textbook/intropython_textbook/);
+- [The Python Tutorial](https://docs.python.org/3/tutorial/);
 
 ### 🗒️ Arquivos de PDF
 - [E-book - Python Básico - FATEC](./arquivos_fontes/python_basico.pdf);
@@ -86,3 +91,8 @@ Desenvolvido por [**Geovanni Marques**](https://github.com/GeovanniMarques)
 *Estudante de Análise e Desenvolvimento de Sistemas*
 
 Sinta-se à vontade para contribuir, comentar ou sugerir melhorias!
+
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/license/MIT) - Veja mais detalhes no arquivo [LICENSE](./LICENSE).
+<br>
+Sinta-se à vontade para usar, modificar e distribuir este código, desde que os créditos sejam mantidos.
