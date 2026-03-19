@@ -83,11 +83,11 @@ Durante a interação com o **NotebookLM**, utilizei as seguintes estratégias:
 - **Evitar alucinações**: na criação do caderno temático, optei por salientar no prompt que o especialista gerado deve ensinar à uma pessoa sem conhecimento prévio. 
 
 ## 🛠️ Ferramentas do NotebookLM utilizadas
-- **Apresentação de slides**:
-- **Cartões didáticos**:
-- **Deep Research**: Utilizado para conectar os exemplos práticos dos vídeos com as definições teóricas da documentação oficial.
-- **Infográfico**:
-- **Mapa mental**:
+- **Apresentação de slides**: Gerada automaticamente para consolidar os tópicos principais em uma estrutura visual e sequencial, ideal para revisões rápidas ou ensino coletivo.
+- **Cartões didáticos**: Aplicados para fixação de sintaxe e conceitos-chave (como a diferença entre listas e tuplas), transformando o estudo em um processo ativo de memorização.
+- **Deep Research**: Utilizado para conectar os exemplos práticos dos vídeos com as definições teóricas da documentação oficial, garantindo que o conteúdo tenha profundidade técnica e exemplos reais.
+- **Infográfico**: Recurso de síntese visual que mapeia a "Anatomia da Programação", conectando a lógica de entrada, processamento e saída de dados de forma intuitiva.
+- **Mapa mental**: Diagrama de ramificação utilizado para organizar a hierarquia da linguagem, permitindo visualizar como módulos, bibliotecas e funções se conectam no ecossistema Python.
 
 ## 🚀 Miniguia de estudo
 
